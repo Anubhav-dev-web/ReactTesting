@@ -1,1 +1,8 @@
 We are using vitest as our testing frameWork and react testing library as testing library
+
+Resources used : 
+vitest,  
+"jsdom": "^24.0.0", 
+"@vitest/ui": "^1.6.0",
+@testing-library/jest-dom,
+https://testing-library.com/docs/queries/about/
