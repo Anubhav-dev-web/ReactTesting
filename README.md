@@ -4,7 +4,7 @@
 
 Welcome to my React testing repository! This repository is a comprehensive collection of all my learning and practice related to testing React applications using Vitest and jsDOM.
 
-![React Testing](https://miro.medium.com/v2/resize:fit:1200/1*dJ7fOFhMo8GeiD1HIF4ZWQ.png)
+
 
 ## 📋 Table of Contents
 
@@ -76,10 +76,10 @@ Learn how to use jsDOM to simulate a browser environment for testing React compo
 
 ## 📂 Example Tests
 
-- **Basic Component Test
-- **Testing Props and State
-- **Mocking Functions
-- **DOM Manipulation Test
+- Basic Component Test
+- Testing Props and State
+- Mocking Functions
+- DOM Manipulation Test
 
 ## 📚 Resources
 
