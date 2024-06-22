@@ -6,3 +6,11 @@ vitest,
 "@vitest/ui": "^1.6.0",
 @testing-library/jest-dom,
 https://testing-library.com/docs/queries/about/
+
+What else to learn 
+
+Mocking API's
+Testing forms
+Testing state management
+Testing authentication
+Testing routes
